@@ -1,8 +1,6 @@
 # my-LeetCode-notes
 
-
-I am starting to learn DSA. Creating this repo to keep track of my journey. --DEC-2022
-
+"As we delve deeper into Data Structures and Algorithms, we discover the artistry in problem-solving, the elegance in algorithm design, and the joy in unraveling complex puzzles."
 
 *** Books read ***
 
